@@ -30,7 +30,7 @@ This project explores the **Swin Transformer** architecture, a hierarchical Visi
 ## 🧪 Research & Development (Google Colab)
 The project started with a "build-from-scratch" approach where I coded the `PatchEmbed`, `WindowAttention`, and `SwinBlock` layers manually. 
 
-- **Scratch Project Link:** [Open Google Colab Notebook](https://colab.research.google.com)
+- **Scratch Project Link:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1KBj-qyv0nRVBSuejVMTbuRlbiM00_UKa)
 - **Dataset:** Initially tested on **CIFAR-100** with custom training loops and `OneCycleLR` scheduling.
 - **Optimizer:** AdamW with weight decay.
 
